@@ -1,3 +1,4 @@
+# EXPLORATORY DATA ANALYSIS
 # 1. Executive Summary
 ## Overview
 This dataset consists of 11 chemical properties of red wine, with a focus on their relationship to the wine's quality rating, which is determined by human tasters. The chemical properties include variables such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol content. These variables are critical to understanding and predicting wine quality.
